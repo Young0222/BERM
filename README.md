@@ -1,5 +1,5 @@
 # HG4SM
-aaai22_HG4SM_code
+HG4SM_code
 
 The metapath is built by using: python meth_path.py
 
